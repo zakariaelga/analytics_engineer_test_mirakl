@@ -1,8 +1,5 @@
 # Analytics Engineer Case Study 2026 - Réponses Complètes
 
-**Candidat Expert Analytics Engineer**  
-Date: 20 Février 2026
-
 ---
 
 ## Part 1: Business Analysis
