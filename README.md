@@ -1,6 +1,5 @@
 # 📊 Analytics Engineer Case Study 2026 - Réponses Complètes
 
-**Candidat**: Zakaria EL GAZI 
 **Date**: 20 Février 2026  
 **Temps de complétion**: ~1h15  
 **Outils utilisés**: SQL (PostgreSQL), AI (Claude), dbdiagram.io
