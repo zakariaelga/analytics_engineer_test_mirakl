@@ -1,6 +1,6 @@
 # 📊 Executive Summary - Analytics Engineer Case Study 2026
 
-**Candidat**: Expert Analytics Engineer  
+**Candidat**: Zakaria EL GAZI
 **Date**: 20 Février 2026  
 **Temps**: 1h15  
 **Status**: ✅ Complet
