@@ -384,30 +384,6 @@ COPY (SELECT * FROM ...) TO 'results.csv' (HEADER, DELIMITER ',');
 
 ---
 
-## ✅ Validation Finale
-
-### Complétude
-- [x] Part 1: 4/4 questions répondues
-- [x] Part 2: Star Schema complet
-- [x] Code SQL: Toutes les queries fournies
-- [x] Documentation: 6 fichiers de doc
-- [x] Diagramme: Code dbdiagram.io fourni
-
-### Qualité
-- [x] Justifications claires pour chaque décision
-- [x] Trade-offs documentés
-- [x] Code commenté et réutilisable
-- [x] Best practices SQL (CTEs, window functions)
-- [x] Optimisations (partitioning, indexing)
-
-### Communication
-- [x] Documentation structurée
-- [x] Exemples concrets
-- [x] Visualisations (diagrammes, tableaux)
-- [x] Guide d'utilisation complet
-
----
-
 ## 🎓 Conclusion
 
 **6 fichiers de réponses** couvrant:
@@ -417,23 +393,3 @@ COPY (SELECT * FROM ...) TO 'results.csv' (HEADER, DELIMITER ',');
 - ✅ Documentation complète
 - ✅ Guides d'utilisation
 
-**Prêt pour soumission** à marine.auffredou@mirakl.com
-
----
-
-*Document créé le 20 Février 2026*  
-*Expert Analytics Engineer*  
-*Temps total: 1h15*
-
----
-
-## 📞 Support
-
-Pour toute question sur les fichiers ou leur utilisation, référez-vous à:
-1. README.md (section FAQ)
-2. REPONSES_CASE_STUDY.md (détails techniques)
-3. Ce fichier INDEX.md (navigation)
-
----
-
-**Bonne chance ! 🚀**
