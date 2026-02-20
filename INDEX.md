@@ -255,45 +255,6 @@ con.execute(open('queries_part1.sql').read())
 
 ---
 
-## 📧 Instructions de Soumission
-
-### Email
-**À**: marine.auffredou@mirakl.com  
-**Sujet**: Analytics Engineer Case Study - [Votre Nom]
-
-### Corps du Mail
-
-```
-Bonjour,
-
-Veuillez trouver ci-joint ma soumission pour le case study Analytics Engineer.
-
-Fichiers inclus:
-1. REPONSES_CASE_STUDY.md - Document principal avec toutes les réponses
-2. queries_part1.sql - Requêtes SQL pour la Partie 1
-3. star_schema_dbdiagram.sql - Code pour générer le diagramme Star Schema
-4. star_schema_diagram.png - Screenshot du diagramme dbdiagram.io
-5. README.md - Guide d'utilisation
-6. EXECUTIVE_SUMMARY.md - Résumé exécutif
-
-Temps de complétion: 1h15
-Outils utilisés: SQL (PostgreSQL), AI (Claude), dbdiagram.io
-
-Highlights:
-- Part 1: GMV défini, top 5 shops identifiés, analyse MoM, 3 KPIs actionnables
-- Part 2: Star Schema avec 1 fact table et 7 dimensions, optimisé pour performance
-
-Le diagramme Star Schema peut être visualisé sur dbdiagram.io en copiant le 
-contenu de star_schema_dbdiagram.sql.
-
-N'hésitez pas si vous avez des questions.
-
-Cordialement,
-[Votre Nom]
-```
-
----
-
 ## 🔍 FAQ
 
 ### Q: Quel fichier lire en premier?
