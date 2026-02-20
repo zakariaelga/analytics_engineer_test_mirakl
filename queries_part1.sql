@@ -3,7 +3,6 @@
 -- PART 1: BUSINESS ANALYSIS - SQL QUERIES
 -- ============================================
 
--- Author: Expert Analytics Engineer
 -- Date: 2026-02-20
 -- Database: PostgreSQL / DuckDB compatible
 
