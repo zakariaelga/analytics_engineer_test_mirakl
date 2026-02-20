@@ -1,6 +1,5 @@
 // ============================================
 // STAR SCHEMA - Market+ Marketplace Analytics
-// Designed by: Zakaria EL GAZI
 // Date: 2026-02-20
 // ============================================
 
