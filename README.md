@@ -398,46 +398,6 @@ print(result)
 
 ---
 
-## ✉️ Contact & Soumission
-
-**Email**: marine.auffredou@mirakl.com  
-**Sujet**: Analytics Engineer Case Study - [Votre Nom]
-
-**Fichiers à inclure**:
-1. ✅ `REPONSES_CASE_STUDY.md` - Document principal
-2. ✅ `queries_part1.sql` - Requêtes SQL
-3. ✅ `star_schema_dbdiagram.sql` - Code du diagramme
-4. ✅ Screenshot du diagramme dbdiagram.io (PNG/PDF)
-5. ✅ Ce README.md (optionnel)
-
----
-
-## 🎓 Conclusion
-
-Cette solution démontre:
-
-✅ **Compétences Techniques**
-- SQL avancé (CTEs, window functions, aggregations)
-- Data modeling (Star Schema, SCD, dimensional design)
-- Performance optimization (partitioning, indexing)
-
-✅ **Business Acumen**
-- Définition claire du GMV avec justifications
-- KPIs actionnables pour Customer Success
-- Compréhension des enjeux marketplace
-
-✅ **Problem Solving**
-- Gestion de l'ambiguïté (assumptions explicites)
-- Trade-offs documentés et justifiés
-- Solutions scalables et maintenables
-
-✅ **Communication**
-- Documentation claire et structurée
-- Code commenté et réutilisable
-- Visualisations (diagramme, tableaux)
-
----
-
 **Merci pour votre temps et considération !** 🚀
 
 ---
